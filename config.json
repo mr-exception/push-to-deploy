@@ -1,0 +1,12 @@
+{
+  "repos": [
+    {
+      "title": "senf project",
+      "code": "senf",
+      "path": "/home/tina/Documents/nodejs/senf/",
+      "script": [
+        "tmux send -t mongo C-c sudo SPACE mongod SPACE --dbpath=/mongo-data ENTER"
+      ]
+    }
+  ]
+}
