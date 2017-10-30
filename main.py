@@ -23,3 +23,5 @@ def pull():
       return 'its ok!'
     else:
       return 'repo not found!'
+
+app.run(port=5445)
